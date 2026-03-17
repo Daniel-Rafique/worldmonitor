@@ -330,7 +330,7 @@ export class PanelLayoutManager implements AppModule {
           <img src="/favico/favicon-32x32.png" alt="" width="28" height="28" class="site-footer-icon" />
           <div class="site-footer-brand-text">
             <span class="site-footer-name">WORLD MONITOR</span>
-            <span class="site-footer-sub">by Someone.ceo</span>
+            <span class="site-footer-sub">by Department of Degen Enforcement</span>
           </div>
         </div>
         <nav>
